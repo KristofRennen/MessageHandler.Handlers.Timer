@@ -3,6 +3,8 @@ using MessageHandler;
 
 namespace Timer
 {
+	// testing buildhook
+	
     public class AddToContainer : IInitialization
     {
         public void Init(IContainer container)
